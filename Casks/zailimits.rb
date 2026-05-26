@@ -1,6 +1,6 @@
 cask "zailimits" do
-  version "1.1.7"
-  sha256 "2aeb2130749da539d729e7495e1265527fac0d145ea640a36b018aaf5abae012"
+  version "1.1.8"
+  sha256 "da2b3bbaf8046aab2037b2c4273af3a8e5cac1533d06f46817ebd219c65586e9"
 
   url "https://github.com/DmitryReztsov/z-ai-limits/releases/download/v#{version}/ZAILimitsMonitor.zip"
   name "Z.ai Limits"
